@@ -17,8 +17,7 @@ client.connect(PORT, HOST, () => {
     const message = JSON.stringify({ seq: count, sendTime });
 
     // Send message
-    client.write(message);
-
+    client.write(message + "\n"); // append delimiter
     count++;
   }, INTERVAL_MS);
 });

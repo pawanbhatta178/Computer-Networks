@@ -5,22 +5,31 @@ const PORT = 5000;
 const server = net.createServer((socket) => {
   console.log("Client connected:", socket.remoteAddress, socket.remotePort);
 
+  let buffer = "";
+
   socket.on("data", (data) => {
-    try {
-      const msg = JSON.parse(data.toString());
-      console.log({ msg });
-      const recvTime = Date.now();
+    buffer += data.toString(); // accumulate into buffer
+    // Split on delimiter
+    let parts = buffer.split("\n");
+    buffer = parts.pop(); // save incomplete part for next time
 
-      console.log(`Received seq=${msg.seq} at ${recvTime}`);
+    for (const part of parts) {
+      if (!part.trim()) continue; // skip empty lines
+      try {
+        const msg = JSON.parse(part);
+        const recvTime = Date.now();
 
-      // Send JSON acknowledgment back
-      const ack = JSON.stringify({
-        ...msg, //echo all client data
-        recvTime,
-      });
-      socket.write(`ACK: ${ack}\n`);
-    } catch (e) {
-      console.error("Invalid message:", data.toString());
+        console.log(`Received seq=${msg.seq} at ${recvTime}`);
+
+        // Send acknowledgment back (also newline-delimited)
+        const ack = JSON.stringify({
+          ...msg,
+          recvTime,
+        });
+        socket.write(`ACK: ${ack}\n`);
+      } catch (e) {
+        console.error("Invalid message:", part);
+      }
     }
   });
 
