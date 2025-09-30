@@ -61,6 +61,7 @@ client.on("data", (data) => {
       console.log("ACK:", ack);
     }
   } catch (e) {
+    console.log(e);
     console.log("ACK (error):", ack);
   }
 });
