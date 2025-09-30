@@ -34,37 +34,44 @@ client.connect(PORT, HOST, () => {
     }
   }, INTERVAL_MS);
 });
+let buffer = ""; // buffer for incomplete chunks
 
-// Receive acknowledgment and compute RTT
 client.on("data", (data) => {
-  const recvTimeClient = Date.now();
-  const ack = data.toString().trim();
+  buffer += data.toString(); // append new chunk
 
-  try {
-    const msg = ack.replace(/^ACK: /, "");
-    console.log({ msg });
-    const parsed = JSON.parse(msg);
-    if (parsed.sendTime) {
-      receivedCount++;
+  // Split on newline to handle multiple messages
+  const lines = buffer.split("\n");
+  buffer = lines.pop(); // save last partial line for next "data"
 
-      const rtt = recvTimeClient - parsed.sendTime;
-      const overall = { ...parsed, recvTimeClient, rtt };
+  for (const line of lines) {
+    if (!line.trim()) continue; // skip empty lines
 
-      results.push(overall);
+    try {
+      const msgStr = line.replace(/^ACK: /, ""); // remove prefix
+      const parsed = JSON.parse(msgStr);
 
-      console.log(`ACK ${ack} received. RTT = ${rtt} ms`);
+      if (parsed.sendTime) {
+        receivedCount++;
 
-      // Close connection after all ACKs received
-      if (receivedCount >= OUT_REQUEST_COUNT) {
-        console.log("Ending client");
-        client.end();
+        const recvTimeClient = Date.now();
+        const rtt = recvTimeClient - parsed.sendTime;
+        const overall = { ...parsed, recvTimeClient, rtt };
+
+        results.push(overall);
+
+        console.log(`ACK seq=${parsed.seq} received. RTT = ${rtt} ms`);
+
+        // Close connection after all ACKs received
+        if (receivedCount >= OUT_REQUEST_COUNT) {
+          console.log("Ending client");
+          client.end();
+        }
+      } else {
+        console.log("ACK:", line);
       }
-    } else {
-      console.log("ACK:", ack);
+    } catch (e) {
+      console.error("ACK parse error:", line, e);
     }
-  } catch (e) {
-    console.log(e);
-    console.log("ACK (error):", ack);
   }
 });
 
