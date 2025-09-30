@@ -41,7 +41,9 @@ client.on("data", (data) => {
   const ack = data.toString().trim();
 
   try {
-    const parsed = JSON.parse(ack.replace(/^ACK: /, ""));
+    const msg = ack.replace(/^ACK: /, "");
+    console.log({ msg });
+    const parsed = JSON.parse(msg);
     if (parsed.sendTime) {
       receivedCount++;
 
@@ -50,7 +52,7 @@ client.on("data", (data) => {
 
       results.push(overall);
 
-      console.log(`ACK received. RTT = ${rtt} ms`);
+      console.log(`ACK ${ack} received. RTT = ${rtt} ms`);
 
       // Close connection after all ACKs received
       if (receivedCount >= OUT_REQUEST_COUNT) {
