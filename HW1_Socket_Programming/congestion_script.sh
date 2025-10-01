@@ -5,10 +5,10 @@ docker network create testnet
 docker build -t nodeapp .
 
 # start server
-docker run -d --name server --network testnet nodeapp
+docker run --rm -d --name server --network testnet nodeapp
 
 # start client
-docker run -it --name client --network testnet nodeapp node client.js
+docker run --rm -it --name client --network testnet nodeapp node client.js
 
 
 
