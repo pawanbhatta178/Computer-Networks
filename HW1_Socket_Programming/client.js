@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 const PORT = 5000;
-const HOST = "127.0.0.1"; // change to your server IP
+const HOST = process.argv[3] || "127.0.0.1"; // change to your server IP
 const INTERVAL_MS = 1000; // send message every 1 second
 const OUT_REQUEST_COUNT = 200;
 
