@@ -1,0 +1,1402 @@
+[
+  {
+    "seq": 1,
+    "sendTime": 1759360980436,
+    "recvTime": 1759360980636,
+    "recvTimeClient": 1759360980837,
+    "rtt": 401
+  },
+  {
+    "seq": 2,
+    "sendTime": 1759360981436,
+    "recvTime": 1759360981637,
+    "recvTimeClient": 1759360981837,
+    "rtt": 401
+  },
+  {
+    "seq": 3,
+    "sendTime": 1759360982438,
+    "recvTime": 1759360982638,
+    "recvTimeClient": 1759360982839,
+    "rtt": 401
+  },
+  {
+    "seq": 4,
+    "sendTime": 1759360983438,
+    "recvTime": 1759360983639,
+    "recvTimeClient": 1759360983839,
+    "rtt": 401
+  },
+  {
+    "seq": 5,
+    "sendTime": 1759360984439,
+    "recvTime": 1759360984640,
+    "recvTimeClient": 1759360984840,
+    "rtt": 401
+  },
+  {
+    "seq": 6,
+    "sendTime": 1759360985440,
+    "recvTime": 1759360985641,
+    "recvTimeClient": 1759360985841,
+    "rtt": 401
+  },
+  {
+    "seq": 7,
+    "sendTime": 1759360986441,
+    "recvTime": 1759360986642,
+    "recvTimeClient": 1759360986842,
+    "rtt": 401
+  },
+  {
+    "seq": 8,
+    "sendTime": 1759360987442,
+    "recvTime": 1759360987643,
+    "recvTimeClient": 1759360987843,
+    "rtt": 401
+  },
+  {
+    "seq": 9,
+    "sendTime": 1759360988443,
+    "recvTime": 1759360988644,
+    "recvTimeClient": 1759360988844,
+    "rtt": 401
+  },
+  {
+    "seq": 10,
+    "sendTime": 1759360989445,
+    "recvTime": 1759360989645,
+    "recvTimeClient": 1759360989846,
+    "rtt": 401
+  },
+  {
+    "seq": 11,
+    "sendTime": 1759360990446,
+    "recvTime": 1759360990646,
+    "recvTimeClient": 1759360990847,
+    "rtt": 401
+  },
+  {
+    "seq": 12,
+    "sendTime": 1759360991447,
+    "recvTime": 1759360991648,
+    "recvTimeClient": 1759360991849,
+    "rtt": 402
+  },
+  {
+    "seq": 13,
+    "sendTime": 1759360992449,
+    "recvTime": 1759360992649,
+    "recvTimeClient": 1759360992849,
+    "rtt": 400
+  },
+  {
+    "seq": 14,
+    "sendTime": 1759360993449,
+    "recvTime": 1759360993650,
+    "recvTimeClient": 1759360993851,
+    "rtt": 402
+  },
+  {
+    "seq": 15,
+    "sendTime": 1759360994451,
+    "recvTime": 1759360994651,
+    "recvTimeClient": 1759360994851,
+    "rtt": 400
+  },
+  {
+    "seq": 16,
+    "sendTime": 1759360995451,
+    "recvTime": 1759360995652,
+    "recvTimeClient": 1759360995852,
+    "rtt": 401
+  },
+  {
+    "seq": 17,
+    "sendTime": 1759360996452,
+    "recvTime": 1759360996652,
+    "recvTimeClient": 1759360996853,
+    "rtt": 401
+  },
+  {
+    "seq": 18,
+    "sendTime": 1759360997453,
+    "recvTime": 1759360997653,
+    "recvTimeClient": 1759360997854,
+    "rtt": 401
+  },
+  {
+    "seq": 19,
+    "sendTime": 1759360998453,
+    "recvTime": 1759360998653,
+    "recvTimeClient": 1759360998853,
+    "rtt": 400
+  },
+  {
+    "seq": 20,
+    "sendTime": 1759360999453,
+    "recvTime": 1759360999654,
+    "recvTimeClient": 1759360999854,
+    "rtt": 401
+  },
+  {
+    "seq": 21,
+    "sendTime": 1759361000454,
+    "recvTime": 1759361000654,
+    "recvTimeClient": 1759361000855,
+    "rtt": 401
+  },
+  {
+    "seq": 22,
+    "sendTime": 1759361001455,
+    "recvTime": 1759361001655,
+    "recvTimeClient": 1759361001856,
+    "rtt": 401
+  },
+  {
+    "seq": 23,
+    "sendTime": 1759361002456,
+    "recvTime": 1759361002656,
+    "recvTimeClient": 1759361002857,
+    "rtt": 401
+  },
+  {
+    "seq": 24,
+    "sendTime": 1759361003456,
+    "recvTime": 1759361003657,
+    "recvTimeClient": 1759361003857,
+    "rtt": 401
+  },
+  {
+    "seq": 25,
+    "sendTime": 1759361004457,
+    "recvTime": 1759361004658,
+    "recvTimeClient": 1759361004858,
+    "rtt": 401
+  },
+  {
+    "seq": 26,
+    "sendTime": 1759361005459,
+    "recvTime": 1759361005659,
+    "recvTimeClient": 1759361005860,
+    "rtt": 401
+  },
+  {
+    "seq": 27,
+    "sendTime": 1759361006460,
+    "recvTime": 1759361006660,
+    "recvTimeClient": 1759361006860,
+    "rtt": 400
+  },
+  {
+    "seq": 28,
+    "sendTime": 1759361007461,
+    "recvTime": 1759361007661,
+    "recvTimeClient": 1759361007862,
+    "rtt": 401
+  },
+  {
+    "seq": 29,
+    "sendTime": 1759361008462,
+    "recvTime": 1759361008662,
+    "recvTimeClient": 1759361008862,
+    "rtt": 400
+  },
+  {
+    "seq": 30,
+    "sendTime": 1759361009462,
+    "recvTime": 1759361009663,
+    "recvTimeClient": 1759361009864,
+    "rtt": 402
+  },
+  {
+    "seq": 31,
+    "sendTime": 1759361010464,
+    "recvTime": 1759361010664,
+    "recvTimeClient": 1759361010864,
+    "rtt": 400
+  },
+  {
+    "seq": 32,
+    "sendTime": 1759361011464,
+    "recvTime": 1759361011665,
+    "recvTimeClient": 1759361011865,
+    "rtt": 401
+  },
+  {
+    "seq": 33,
+    "sendTime": 1759361012466,
+    "recvTime": 1759361012666,
+    "recvTimeClient": 1759361012867,
+    "rtt": 401
+  },
+  {
+    "seq": 34,
+    "sendTime": 1759361013467,
+    "recvTime": 1759361013667,
+    "recvTimeClient": 1759361013868,
+    "rtt": 401
+  },
+  {
+    "seq": 35,
+    "sendTime": 1759361014468,
+    "recvTime": 1759361014668,
+    "recvTimeClient": 1759361014868,
+    "rtt": 400
+  },
+  {
+    "seq": 36,
+    "sendTime": 1759361015468,
+    "recvTime": 1759361015669,
+    "recvTimeClient": 1759361015869,
+    "rtt": 401
+  },
+  {
+    "seq": 37,
+    "sendTime": 1759361016470,
+    "recvTime": 1759361016670,
+    "recvTimeClient": 1759361016871,
+    "rtt": 401
+  },
+  {
+    "seq": 38,
+    "sendTime": 1759361017471,
+    "recvTime": 1759361017672,
+    "recvTimeClient": 1759361017872,
+    "rtt": 401
+  },
+  {
+    "seq": 39,
+    "sendTime": 1759361018473,
+    "recvTime": 1759361018673,
+    "recvTimeClient": 1759361018873,
+    "rtt": 400
+  },
+  {
+    "seq": 40,
+    "sendTime": 1759361019474,
+    "recvTime": 1759361019674,
+    "recvTimeClient": 1759361019874,
+    "rtt": 400
+  },
+  {
+    "seq": 41,
+    "sendTime": 1759361020474,
+    "recvTime": 1759361020675,
+    "recvTimeClient": 1759361020875,
+    "rtt": 401
+  },
+  {
+    "seq": 42,
+    "sendTime": 1759361021476,
+    "recvTime": 1759361021676,
+    "recvTimeClient": 1759361021876,
+    "rtt": 400
+  },
+  {
+    "seq": 43,
+    "sendTime": 1759361022478,
+    "recvTime": 1759361022678,
+    "recvTimeClient": 1759361022878,
+    "rtt": 400
+  },
+  {
+    "seq": 44,
+    "sendTime": 1759361023478,
+    "recvTime": 1759361023678,
+    "recvTimeClient": 1759361023879,
+    "rtt": 401
+  },
+  {
+    "seq": 45,
+    "sendTime": 1759361024480,
+    "recvTime": 1759361024680,
+    "recvTimeClient": 1759361024880,
+    "rtt": 400
+  },
+  {
+    "seq": 46,
+    "sendTime": 1759361025480,
+    "recvTime": 1759361025681,
+    "recvTimeClient": 1759361025881,
+    "rtt": 401
+  },
+  {
+    "seq": 47,
+    "sendTime": 1759361026481,
+    "recvTime": 1759361026681,
+    "recvTimeClient": 1759361026882,
+    "rtt": 401
+  },
+  {
+    "seq": 48,
+    "sendTime": 1759361027482,
+    "recvTime": 1759361027682,
+    "recvTimeClient": 1759361027883,
+    "rtt": 401
+  },
+  {
+    "seq": 49,
+    "sendTime": 1759361028484,
+    "recvTime": 1759361028684,
+    "recvTimeClient": 1759361028884,
+    "rtt": 400
+  },
+  {
+    "seq": 50,
+    "sendTime": 1759361029486,
+    "recvTime": 1759361029686,
+    "recvTimeClient": 1759361029886,
+    "rtt": 400
+  },
+  {
+    "seq": 51,
+    "sendTime": 1759361030486,
+    "recvTime": 1759361030687,
+    "recvTimeClient": 1759361030888,
+    "rtt": 402
+  },
+  {
+    "seq": 52,
+    "sendTime": 1759361031487,
+    "recvTime": 1759361031687,
+    "recvTimeClient": 1759361031887,
+    "rtt": 400
+  },
+  {
+    "seq": 53,
+    "sendTime": 1759361032488,
+    "recvTime": 1759361032688,
+    "recvTimeClient": 1759361032889,
+    "rtt": 401
+  },
+  {
+    "seq": 54,
+    "sendTime": 1759361033489,
+    "recvTime": 1759361033689,
+    "recvTimeClient": 1759361033889,
+    "rtt": 400
+  },
+  {
+    "seq": 55,
+    "sendTime": 1759361034489,
+    "recvTime": 1759361034690,
+    "recvTimeClient": 1759361034890,
+    "rtt": 401
+  },
+  {
+    "seq": 56,
+    "sendTime": 1759361035491,
+    "recvTime": 1759361035691,
+    "recvTimeClient": 1759361035892,
+    "rtt": 401
+  },
+  {
+    "seq": 57,
+    "sendTime": 1759361036492,
+    "recvTime": 1759361036692,
+    "recvTimeClient": 1759361036892,
+    "rtt": 400
+  },
+  {
+    "seq": 58,
+    "sendTime": 1759361037492,
+    "recvTime": 1759361037693,
+    "recvTimeClient": 1759361037893,
+    "rtt": 401
+  },
+  {
+    "seq": 59,
+    "sendTime": 1759361038493,
+    "recvTime": 1759361038694,
+    "recvTimeClient": 1759361038894,
+    "rtt": 401
+  },
+  {
+    "seq": 60,
+    "sendTime": 1759361039495,
+    "recvTime": 1759361039695,
+    "recvTimeClient": 1759361039896,
+    "rtt": 401
+  },
+  {
+    "seq": 61,
+    "sendTime": 1759361040496,
+    "recvTime": 1759361040696,
+    "recvTimeClient": 1759361040896,
+    "rtt": 400
+  },
+  {
+    "seq": 62,
+    "sendTime": 1759361041496,
+    "recvTime": 1759361041696,
+    "recvTimeClient": 1759361041897,
+    "rtt": 401
+  },
+  {
+    "seq": 63,
+    "sendTime": 1759361042498,
+    "recvTime": 1759361042698,
+    "recvTimeClient": 1759361042899,
+    "rtt": 401
+  },
+  {
+    "seq": 64,
+    "sendTime": 1759361043499,
+    "recvTime": 1759361043699,
+    "recvTimeClient": 1759361043899,
+    "rtt": 400
+  },
+  {
+    "seq": 65,
+    "sendTime": 1759361044499,
+    "recvTime": 1759361044699,
+    "recvTimeClient": 1759361044900,
+    "rtt": 401
+  },
+  {
+    "seq": 66,
+    "sendTime": 1759361045500,
+    "recvTime": 1759361045701,
+    "recvTimeClient": 1759361045901,
+    "rtt": 401
+  },
+  {
+    "seq": 67,
+    "sendTime": 1759361046501,
+    "recvTime": 1759361046701,
+    "recvTimeClient": 1759361046902,
+    "rtt": 401
+  },
+  {
+    "seq": 68,
+    "sendTime": 1759361047503,
+    "recvTime": 1759361047703,
+    "recvTimeClient": 1759361047903,
+    "rtt": 400
+  },
+  {
+    "seq": 69,
+    "sendTime": 1759361048503,
+    "recvTime": 1759361048704,
+    "recvTimeClient": 1759361048904,
+    "rtt": 401
+  },
+  {
+    "seq": 70,
+    "sendTime": 1759361049504,
+    "recvTime": 1759361049705,
+    "recvTimeClient": 1759361049905,
+    "rtt": 401
+  },
+  {
+    "seq": 71,
+    "sendTime": 1759361050505,
+    "recvTime": 1759361050705,
+    "recvTimeClient": 1759361050906,
+    "rtt": 401
+  },
+  {
+    "seq": 72,
+    "sendTime": 1759361051506,
+    "recvTime": 1759361051707,
+    "recvTimeClient": 1759361051908,
+    "rtt": 402
+  },
+  {
+    "seq": 73,
+    "sendTime": 1759361052508,
+    "recvTime": 1759361052708,
+    "recvTimeClient": 1759361052909,
+    "rtt": 401
+  },
+  {
+    "seq": 74,
+    "sendTime": 1759361053510,
+    "recvTime": 1759361053710,
+    "recvTimeClient": 1759361053910,
+    "rtt": 400
+  },
+  {
+    "seq": 75,
+    "sendTime": 1759361054510,
+    "recvTime": 1759361054711,
+    "recvTimeClient": 1759361054911,
+    "rtt": 401
+  },
+  {
+    "seq": 76,
+    "sendTime": 1759361055511,
+    "recvTime": 1759361055711,
+    "recvTimeClient": 1759361055912,
+    "rtt": 401
+  },
+  {
+    "seq": 77,
+    "sendTime": 1759361056512,
+    "recvTime": 1759361056713,
+    "recvTimeClient": 1759361056913,
+    "rtt": 401
+  },
+  {
+    "seq": 78,
+    "sendTime": 1759361057513,
+    "recvTime": 1759361057713,
+    "recvTimeClient": 1759361057914,
+    "rtt": 401
+  },
+  {
+    "seq": 79,
+    "sendTime": 1759361058514,
+    "recvTime": 1759361058714,
+    "recvTimeClient": 1759361058915,
+    "rtt": 401
+  },
+  {
+    "seq": 80,
+    "sendTime": 1759361059516,
+    "recvTime": 1759361059716,
+    "recvTimeClient": 1759361059917,
+    "rtt": 401
+  },
+  {
+    "seq": 81,
+    "sendTime": 1759361060517,
+    "recvTime": 1759361060717,
+    "recvTimeClient": 1759361060918,
+    "rtt": 401
+  },
+  {
+    "seq": 82,
+    "sendTime": 1759361061518,
+    "recvTime": 1759361061718,
+    "recvTimeClient": 1759361061918,
+    "rtt": 400
+  },
+  {
+    "seq": 83,
+    "sendTime": 1759361062518,
+    "recvTime": 1759361062719,
+    "recvTimeClient": 1759361062919,
+    "rtt": 401
+  },
+  {
+    "seq": 84,
+    "sendTime": 1759361063520,
+    "recvTime": 1759361063720,
+    "recvTimeClient": 1759361063921,
+    "rtt": 401
+  },
+  {
+    "seq": 85,
+    "sendTime": 1759361064520,
+    "recvTime": 1759361064721,
+    "recvTimeClient": 1759361064921,
+    "rtt": 401
+  },
+  {
+    "seq": 86,
+    "sendTime": 1759361065522,
+    "recvTime": 1759361065722,
+    "recvTimeClient": 1759361065923,
+    "rtt": 401
+  },
+  {
+    "seq": 87,
+    "sendTime": 1759361066522,
+    "recvTime": 1759361066722,
+    "recvTimeClient": 1759361066923,
+    "rtt": 401
+  },
+  {
+    "seq": 88,
+    "sendTime": 1759361067523,
+    "recvTime": 1759361067723,
+    "recvTimeClient": 1759361067924,
+    "rtt": 401
+  },
+  {
+    "seq": 89,
+    "sendTime": 1759361068523,
+    "recvTime": 1759361068724,
+    "recvTimeClient": 1759361068924,
+    "rtt": 401
+  },
+  {
+    "seq": 90,
+    "sendTime": 1759361069524,
+    "recvTime": 1759361069725,
+    "recvTimeClient": 1759361069925,
+    "rtt": 401
+  },
+  {
+    "seq": 91,
+    "sendTime": 1759361070526,
+    "recvTime": 1759361070726,
+    "recvTimeClient": 1759361070927,
+    "rtt": 401
+  },
+  {
+    "seq": 92,
+    "sendTime": 1759361071526,
+    "recvTime": 1759361071727,
+    "recvTimeClient": 1759361071927,
+    "rtt": 401
+  },
+  {
+    "seq": 93,
+    "sendTime": 1759361072527,
+    "recvTime": 1759361072728,
+    "recvTimeClient": 1759361072928,
+    "rtt": 401
+  },
+  {
+    "seq": 94,
+    "sendTime": 1759361073528,
+    "recvTime": 1759361073729,
+    "recvTimeClient": 1759361073929,
+    "rtt": 401
+  },
+  {
+    "seq": 95,
+    "sendTime": 1759361074529,
+    "recvTime": 1759361074729,
+    "recvTimeClient": 1759361074930,
+    "rtt": 401
+  },
+  {
+    "seq": 96,
+    "sendTime": 1759361075531,
+    "recvTime": 1759361075731,
+    "recvTimeClient": 1759361075931,
+    "rtt": 400
+  },
+  {
+    "seq": 97,
+    "sendTime": 1759361076531,
+    "recvTime": 1759361076732,
+    "recvTimeClient": 1759361076932,
+    "rtt": 401
+  },
+  {
+    "seq": 98,
+    "sendTime": 1759361077532,
+    "recvTime": 1759361077732,
+    "recvTimeClient": 1759361077933,
+    "rtt": 401
+  },
+  {
+    "seq": 99,
+    "sendTime": 1759361078534,
+    "recvTime": 1759361078734,
+    "recvTimeClient": 1759361078934,
+    "rtt": 400
+  },
+  {
+    "seq": 100,
+    "sendTime": 1759361079534,
+    "recvTime": 1759361079735,
+    "recvTimeClient": 1759361079935,
+    "rtt": 401
+  },
+  {
+    "seq": 101,
+    "sendTime": 1759361080535,
+    "recvTime": 1759361080736,
+    "recvTimeClient": 1759361080936,
+    "rtt": 401
+  },
+  {
+    "seq": 102,
+    "sendTime": 1759361081536,
+    "recvTime": 1759361081736,
+    "recvTimeClient": 1759361081937,
+    "rtt": 401
+  },
+  {
+    "seq": 103,
+    "sendTime": 1759361082537,
+    "recvTime": 1759361082737,
+    "recvTimeClient": 1759361082937,
+    "rtt": 400
+  },
+  {
+    "seq": 104,
+    "sendTime": 1759361083538,
+    "recvTime": 1759361083739,
+    "recvTimeClient": 1759361083939,
+    "rtt": 401
+  },
+  {
+    "seq": 105,
+    "sendTime": 1759361084539,
+    "recvTime": 1759361084740,
+    "recvTimeClient": 1759361084940,
+    "rtt": 401
+  },
+  {
+    "seq": 106,
+    "sendTime": 1759361085540,
+    "recvTime": 1759361085740,
+    "recvTimeClient": 1759361085941,
+    "rtt": 401
+  },
+  {
+    "seq": 107,
+    "sendTime": 1759361086541,
+    "recvTime": 1759361086741,
+    "recvTimeClient": 1759361086942,
+    "rtt": 401
+  },
+  {
+    "seq": 108,
+    "sendTime": 1759361087542,
+    "recvTime": 1759361087742,
+    "recvTimeClient": 1759361087943,
+    "rtt": 401
+  },
+  {
+    "seq": 109,
+    "sendTime": 1759361088543,
+    "recvTime": 1759361088743,
+    "recvTimeClient": 1759361088944,
+    "rtt": 401
+  },
+  {
+    "seq": 110,
+    "sendTime": 1759361089544,
+    "recvTime": 1759361089744,
+    "recvTimeClient": 1759361089945,
+    "rtt": 401
+  },
+  {
+    "seq": 111,
+    "sendTime": 1759361090545,
+    "recvTime": 1759361090745,
+    "recvTimeClient": 1759361090946,
+    "rtt": 401
+  },
+  {
+    "seq": 112,
+    "sendTime": 1759361091546,
+    "recvTime": 1759361091746,
+    "recvTimeClient": 1759361091946,
+    "rtt": 400
+  },
+  {
+    "seq": 113,
+    "sendTime": 1759361092547,
+    "recvTime": 1759361092747,
+    "recvTimeClient": 1759361092947,
+    "rtt": 400
+  },
+  {
+    "seq": 114,
+    "sendTime": 1759361093547,
+    "recvTime": 1759361093748,
+    "recvTimeClient": 1759361093948,
+    "rtt": 401
+  },
+  {
+    "seq": 115,
+    "sendTime": 1759361094547,
+    "recvTime": 1759361094748,
+    "recvTimeClient": 1759361094948,
+    "rtt": 401
+  },
+  {
+    "seq": 116,
+    "sendTime": 1759361095549,
+    "recvTime": 1759361095749,
+    "recvTimeClient": 1759361095950,
+    "rtt": 401
+  },
+  {
+    "seq": 117,
+    "sendTime": 1759361096550,
+    "recvTime": 1759361096750,
+    "recvTimeClient": 1759361096951,
+    "rtt": 401
+  },
+  {
+    "seq": 118,
+    "sendTime": 1759361097550,
+    "recvTime": 1759361097751,
+    "recvTimeClient": 1759361097951,
+    "rtt": 401
+  },
+  {
+    "seq": 119,
+    "sendTime": 1759361098551,
+    "recvTime": 1759361098751,
+    "recvTimeClient": 1759361098952,
+    "rtt": 401
+  },
+  {
+    "seq": 120,
+    "sendTime": 1759361099553,
+    "recvTime": 1759361099753,
+    "recvTimeClient": 1759361099954,
+    "rtt": 401
+  },
+  {
+    "seq": 121,
+    "sendTime": 1759361100554,
+    "recvTime": 1759361100754,
+    "recvTimeClient": 1759361100954,
+    "rtt": 400
+  },
+  {
+    "seq": 122,
+    "sendTime": 1759361101554,
+    "recvTime": 1759361101755,
+    "recvTimeClient": 1759361101955,
+    "rtt": 401
+  },
+  {
+    "seq": 123,
+    "sendTime": 1759361102554,
+    "recvTime": 1759361102754,
+    "recvTimeClient": 1759361102955,
+    "rtt": 401
+  },
+  {
+    "seq": 124,
+    "sendTime": 1759361103556,
+    "recvTime": 1759361103756,
+    "recvTimeClient": 1759361103957,
+    "rtt": 401
+  },
+  {
+    "seq": 125,
+    "sendTime": 1759361104557,
+    "recvTime": 1759361104757,
+    "recvTimeClient": 1759361104957,
+    "rtt": 400
+  },
+  {
+    "seq": 126,
+    "sendTime": 1759361105557,
+    "recvTime": 1759361105758,
+    "recvTimeClient": 1759361105958,
+    "rtt": 401
+  },
+  {
+    "seq": 127,
+    "sendTime": 1759361106559,
+    "recvTime": 1759361106759,
+    "recvTimeClient": 1759361106960,
+    "rtt": 401
+  },
+  {
+    "seq": 128,
+    "sendTime": 1759361107560,
+    "recvTime": 1759361107760,
+    "recvTimeClient": 1759361107961,
+    "rtt": 401
+  },
+  {
+    "seq": 129,
+    "sendTime": 1759361108562,
+    "recvTime": 1759361108762,
+    "recvTimeClient": 1759361108963,
+    "rtt": 401
+  },
+  {
+    "seq": 130,
+    "sendTime": 1759361109562,
+    "recvTime": 1759361109762,
+    "recvTimeClient": 1759361109963,
+    "rtt": 401
+  },
+  {
+    "seq": 131,
+    "sendTime": 1759361110564,
+    "recvTime": 1759361110764,
+    "recvTimeClient": 1759361110964,
+    "rtt": 400
+  },
+  {
+    "seq": 132,
+    "sendTime": 1759361111564,
+    "recvTime": 1759361111765,
+    "recvTimeClient": 1759361111965,
+    "rtt": 401
+  },
+  {
+    "seq": 133,
+    "sendTime": 1759361112565,
+    "recvTime": 1759361112765,
+    "recvTimeClient": 1759361112965,
+    "rtt": 400
+  },
+  {
+    "seq": 134,
+    "sendTime": 1759361113565,
+    "recvTime": 1759361113766,
+    "recvTimeClient": 1759361113966,
+    "rtt": 401
+  },
+  {
+    "seq": 135,
+    "sendTime": 1759361114566,
+    "recvTime": 1759361114766,
+    "recvTimeClient": 1759361114967,
+    "rtt": 401
+  },
+  {
+    "seq": 136,
+    "sendTime": 1759361115567,
+    "recvTime": 1759361115767,
+    "recvTimeClient": 1759361115968,
+    "rtt": 401
+  },
+  {
+    "seq": 137,
+    "sendTime": 1759361116568,
+    "recvTime": 1759361116769,
+    "recvTimeClient": 1759361116969,
+    "rtt": 401
+  },
+  {
+    "seq": 138,
+    "sendTime": 1759361117569,
+    "recvTime": 1759361117770,
+    "recvTimeClient": 1759361117970,
+    "rtt": 401
+  },
+  {
+    "seq": 139,
+    "sendTime": 1759361118571,
+    "recvTime": 1759361118771,
+    "recvTimeClient": 1759361118972,
+    "rtt": 401
+  },
+  {
+    "seq": 140,
+    "sendTime": 1759361119572,
+    "recvTime": 1759361119772,
+    "recvTimeClient": 1759361119973,
+    "rtt": 401
+  },
+  {
+    "seq": 141,
+    "sendTime": 1759361120573,
+    "recvTime": 1759361120773,
+    "recvTimeClient": 1759361120973,
+    "rtt": 400
+  },
+  {
+    "seq": 142,
+    "sendTime": 1759361121573,
+    "recvTime": 1759361121774,
+    "recvTimeClient": 1759361121974,
+    "rtt": 401
+  },
+  {
+    "seq": 143,
+    "sendTime": 1759361122574,
+    "recvTime": 1759361122774,
+    "recvTimeClient": 1759361122975,
+    "rtt": 401
+  },
+  {
+    "seq": 144,
+    "sendTime": 1759361123575,
+    "recvTime": 1759361123775,
+    "recvTimeClient": 1759361123975,
+    "rtt": 400
+  },
+  {
+    "seq": 145,
+    "sendTime": 1759361124575,
+    "recvTime": 1759361124775,
+    "recvTimeClient": 1759361124976,
+    "rtt": 401
+  },
+  {
+    "seq": 146,
+    "sendTime": 1759361125576,
+    "recvTime": 1759361125776,
+    "recvTimeClient": 1759361125977,
+    "rtt": 401
+  },
+  {
+    "seq": 147,
+    "sendTime": 1759361126576,
+    "recvTime": 1759361126777,
+    "recvTimeClient": 1759361126977,
+    "rtt": 401
+  },
+  {
+    "seq": 148,
+    "sendTime": 1759361127577,
+    "recvTime": 1759361127778,
+    "recvTimeClient": 1759361127978,
+    "rtt": 401
+  },
+  {
+    "seq": 149,
+    "sendTime": 1759361128578,
+    "recvTime": 1759361128779,
+    "recvTimeClient": 1759361128979,
+    "rtt": 401
+  },
+  {
+    "seq": 150,
+    "sendTime": 1759361129580,
+    "recvTime": 1759361129780,
+    "recvTimeClient": 1759361129981,
+    "rtt": 401
+  },
+  {
+    "seq": 151,
+    "sendTime": 1759361130581,
+    "recvTime": 1759361130781,
+    "recvTimeClient": 1759361130981,
+    "rtt": 400
+  },
+  {
+    "seq": 152,
+    "sendTime": 1759361131581,
+    "recvTime": 1759361131782,
+    "recvTimeClient": 1759361131982,
+    "rtt": 401
+  },
+  {
+    "seq": 153,
+    "sendTime": 1759361132582,
+    "recvTime": 1759361132782,
+    "recvTimeClient": 1759361132983,
+    "rtt": 401
+  },
+  {
+    "seq": 154,
+    "sendTime": 1759361133584,
+    "recvTime": 1759361133784,
+    "recvTimeClient": 1759361133984,
+    "rtt": 400
+  },
+  {
+    "seq": 155,
+    "sendTime": 1759361134584,
+    "recvTime": 1759361134785,
+    "recvTimeClient": 1759361134985,
+    "rtt": 401
+  },
+  {
+    "seq": 156,
+    "sendTime": 1759361135585,
+    "recvTime": 1759361135786,
+    "recvTimeClient": 1759361135986,
+    "rtt": 401
+  },
+  {
+    "seq": 157,
+    "sendTime": 1759361136586,
+    "recvTime": 1759361136786,
+    "recvTimeClient": 1759361136987,
+    "rtt": 401
+  },
+  {
+    "seq": 158,
+    "sendTime": 1759361137588,
+    "recvTime": 1759361137788,
+    "recvTimeClient": 1759361137989,
+    "rtt": 401
+  },
+  {
+    "seq": 159,
+    "sendTime": 1759361138588,
+    "recvTime": 1759361138788,
+    "recvTimeClient": 1759361138989,
+    "rtt": 401
+  },
+  {
+    "seq": 160,
+    "sendTime": 1759361139590,
+    "recvTime": 1759361139790,
+    "recvTimeClient": 1759361139990,
+    "rtt": 400
+  },
+  {
+    "seq": 161,
+    "sendTime": 1759361140590,
+    "recvTime": 1759361140791,
+    "recvTimeClient": 1759361140991,
+    "rtt": 401
+  },
+  {
+    "seq": 162,
+    "sendTime": 1759361141591,
+    "recvTime": 1759361141791,
+    "recvTimeClient": 1759361141992,
+    "rtt": 401
+  },
+  {
+    "seq": 163,
+    "sendTime": 1759361142593,
+    "recvTime": 1759361142793,
+    "recvTimeClient": 1759361142993,
+    "rtt": 400
+  },
+  {
+    "seq": 164,
+    "sendTime": 1759361143594,
+    "recvTime": 1759361143795,
+    "recvTimeClient": 1759361143995,
+    "rtt": 401
+  },
+  {
+    "seq": 165,
+    "sendTime": 1759361144595,
+    "recvTime": 1759361144795,
+    "recvTimeClient": 1759361144996,
+    "rtt": 401
+  },
+  {
+    "seq": 166,
+    "sendTime": 1759361145596,
+    "recvTime": 1759361145796,
+    "recvTimeClient": 1759361145997,
+    "rtt": 401
+  },
+  {
+    "seq": 167,
+    "sendTime": 1759361146597,
+    "recvTime": 1759361146798,
+    "recvTimeClient": 1759361146998,
+    "rtt": 401
+  },
+  {
+    "seq": 168,
+    "sendTime": 1759361147598,
+    "recvTime": 1759361147798,
+    "recvTimeClient": 1759361147999,
+    "rtt": 401
+  },
+  {
+    "seq": 169,
+    "sendTime": 1759361148599,
+    "recvTime": 1759361148799,
+    "recvTimeClient": 1759361149000,
+    "rtt": 401
+  },
+  {
+    "seq": 170,
+    "sendTime": 1759361149600,
+    "recvTime": 1759361149801,
+    "recvTimeClient": 1759361150001,
+    "rtt": 401
+  },
+  {
+    "seq": 171,
+    "sendTime": 1759361150601,
+    "recvTime": 1759361150801,
+    "recvTimeClient": 1759361151002,
+    "rtt": 401
+  },
+  {
+    "seq": 172,
+    "sendTime": 1759361151602,
+    "recvTime": 1759361151802,
+    "recvTimeClient": 1759361152003,
+    "rtt": 401
+  },
+  {
+    "seq": 173,
+    "sendTime": 1759361152603,
+    "recvTime": 1759361152803,
+    "recvTimeClient": 1759361153003,
+    "rtt": 400
+  },
+  {
+    "seq": 174,
+    "sendTime": 1759361153603,
+    "recvTime": 1759361153804,
+    "recvTimeClient": 1759361154004,
+    "rtt": 401
+  },
+  {
+    "seq": 175,
+    "sendTime": 1759361154605,
+    "recvTime": 1759361154805,
+    "recvTimeClient": 1759361155006,
+    "rtt": 401
+  },
+  {
+    "seq": 176,
+    "sendTime": 1759361155606,
+    "recvTime": 1759361155806,
+    "recvTimeClient": 1759361156007,
+    "rtt": 401
+  },
+  {
+    "seq": 177,
+    "sendTime": 1759361156607,
+    "recvTime": 1759361156807,
+    "recvTimeClient": 1759361157008,
+    "rtt": 401
+  },
+  {
+    "seq": 178,
+    "sendTime": 1759361157608,
+    "recvTime": 1759361157808,
+    "recvTimeClient": 1759361158008,
+    "rtt": 400
+  },
+  {
+    "seq": 179,
+    "sendTime": 1759361158608,
+    "recvTime": 1759361158809,
+    "recvTimeClient": 1759361159009,
+    "rtt": 401
+  },
+  {
+    "seq": 180,
+    "sendTime": 1759361159609,
+    "recvTime": 1759361159809,
+    "recvTimeClient": 1759361160010,
+    "rtt": 401
+  },
+  {
+    "seq": 181,
+    "sendTime": 1759361160611,
+    "recvTime": 1759361160811,
+    "recvTimeClient": 1759361161012,
+    "rtt": 401
+  },
+  {
+    "seq": 182,
+    "sendTime": 1759361161612,
+    "recvTime": 1759361161812,
+    "recvTimeClient": 1759361162012,
+    "rtt": 400
+  },
+  {
+    "seq": 183,
+    "sendTime": 1759361162612,
+    "recvTime": 1759361162813,
+    "recvTimeClient": 1759361163013,
+    "rtt": 401
+  },
+  {
+    "seq": 184,
+    "sendTime": 1759361163613,
+    "recvTime": 1759361163814,
+    "recvTimeClient": 1759361164014,
+    "rtt": 401
+  },
+  {
+    "seq": 185,
+    "sendTime": 1759361164614,
+    "recvTime": 1759361164815,
+    "recvTimeClient": 1759361165015,
+    "rtt": 401
+  },
+  {
+    "seq": 186,
+    "sendTime": 1759361165616,
+    "recvTime": 1759361165816,
+    "recvTimeClient": 1759361166017,
+    "rtt": 401
+  },
+  {
+    "seq": 187,
+    "sendTime": 1759361166618,
+    "recvTime": 1759361166818,
+    "recvTimeClient": 1759361167018,
+    "rtt": 400
+  },
+  {
+    "seq": 188,
+    "sendTime": 1759361167618,
+    "recvTime": 1759361167819,
+    "recvTimeClient": 1759361168019,
+    "rtt": 401
+  },
+  {
+    "seq": 189,
+    "sendTime": 1759361168619,
+    "recvTime": 1759361168819,
+    "recvTimeClient": 1759361169020,
+    "rtt": 401
+  },
+  {
+    "seq": 190,
+    "sendTime": 1759361169621,
+    "recvTime": 1759361169821,
+    "recvTimeClient": 1759361170022,
+    "rtt": 401
+  },
+  {
+    "seq": 191,
+    "sendTime": 1759361170622,
+    "recvTime": 1759361170822,
+    "recvTimeClient": 1759361171023,
+    "rtt": 401
+  },
+  {
+    "seq": 192,
+    "sendTime": 1759361171623,
+    "recvTime": 1759361171824,
+    "recvTimeClient": 1759361172024,
+    "rtt": 401
+  },
+  {
+    "seq": 193,
+    "sendTime": 1759361172624,
+    "recvTime": 1759361172824,
+    "recvTimeClient": 1759361173025,
+    "rtt": 401
+  },
+  {
+    "seq": 194,
+    "sendTime": 1759361173625,
+    "recvTime": 1759361173825,
+    "recvTimeClient": 1759361174025,
+    "rtt": 400
+  },
+  {
+    "seq": 195,
+    "sendTime": 1759361174627,
+    "recvTime": 1759361174827,
+    "recvTimeClient": 1759361175027,
+    "rtt": 400
+  },
+  {
+    "seq": 196,
+    "sendTime": 1759361175628,
+    "recvTime": 1759361175829,
+    "recvTimeClient": 1759361176029,
+    "rtt": 401
+  },
+  {
+    "seq": 197,
+    "sendTime": 1759361176629,
+    "recvTime": 1759361176829,
+    "recvTimeClient": 1759361177030,
+    "rtt": 401
+  },
+  {
+    "seq": 198,
+    "sendTime": 1759361177629,
+    "recvTime": 1759361177830,
+    "recvTimeClient": 1759361178030,
+    "rtt": 401
+  },
+  {
+    "seq": 199,
+    "sendTime": 1759361178630,
+    "recvTime": 1759361178830,
+    "recvTimeClient": 1759361179031,
+    "rtt": 401
+  },
+  {
+    "seq": 200,
+    "sendTime": 1759361179631,
+    "recvTime": 1759361179831,
+    "recvTimeClient": 1759361180031,
+    "rtt": 400
+  }
+]
